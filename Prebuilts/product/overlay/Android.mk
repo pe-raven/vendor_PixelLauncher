@@ -18,7 +18,6 @@ include $(BUILD_PREBUILT)
 include $(CLEAR_VARS)
 
 LOCAL_MODULE := ThemedIconsOverlayMod
-LOCAL_MODULE_STEM := ThemedIconsOverlay.apk
 LOCAL_CERTIFICATE := platform
 LOCAL_SRC_FILES := ThemedIconsOverlay.apk
 LOCAL_MODULE_TAGS := optional
